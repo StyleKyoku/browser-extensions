@@ -1,8 +1,3 @@
-Спасибо, что заметил — конечно, полную версию README нужно **дополнить**, а не сокращать!
-Вот как будет выглядеть твой README.md с подробной **секцией про реализацию и твои умения** (по-английски, с markdown, всё вместе):
-
----
-
 # Browser Extensions Manager
 
 [**Live Demo**](https://stylekyoku.github.io/browser-extensions/)
