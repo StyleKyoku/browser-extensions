@@ -4,7 +4,7 @@ const Card = ({ item, onToggle, onRemove }) => {
   return (
     <div className="card">
         <div className="card-content">
-            <img src={item.logo} alt={item.name} className="card-icon" />
+            <img src={import.meta.env.BASE_URL + item.logo} alt={item.name} className="card-logo" />
             <div className="card-text"> 
                 <h3 className="card-title">{item.name}</h3>
                 <p className="card-description">{item.description}</p>

@@ -163,11 +163,6 @@ body {
   margin-bottom: 2em;
 }
 
-.card-logo {
-  width: 70px;
-  height: 70px;
-}
-
 .card-text {
   justify-content: left;
   margin: 0 0 0 1em;
